@@ -16,11 +16,11 @@
   💌 Contato: ⤵️
 </p>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/leandro-bruner-a887361b8/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-bruner-a887361b8/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5514997845495" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5514997845495"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/leandro.bruner.17/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leandro.bruner.17/"/></a>

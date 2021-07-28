@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, HTML, CSS e Javascript.</strong>
+  🦄 Linguagens: <strong>C#</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Unity e Blender.</strong>
+  💼 Ferramentas: <strong>Unity</strong>
 </p>
 
 <p align="left">

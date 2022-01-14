@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C# Javascript</strong>
+  🦄 Linguagens: <strong>C# e Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Unity React</strong>
+  💼 Ferramentas: <strong>Unity e React</strong>
 </p>
 
 <p align="left">

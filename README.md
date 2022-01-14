@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Leandro e sou estudante de Jogos Digitais na Fatec de Ourinhos. Desenvolvo jogos na Unity há mais de um ano e meio e atualmente estou implementando jogos feitos anteriormente. Meu portifólio está disponível em: https://lbruner.itch.io
+  Meu nome é Leandro e sou estudante de Jogos Digitais na Fatec de Ourinhos. Estou atualmente tentando uma recolocação na área de desenvolvimento WEB. Desenvolvo jogos na Unity há mais de um ano e meio. Meu portifólio está disponível em: https://lbruner.itch.io
 </p>
 
 <p align="left">

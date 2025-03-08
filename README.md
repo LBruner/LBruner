@@ -13,9 +13,7 @@
     </tr>
 </table>
 
-
-<br>
-
+---
 
 ```javascript
 const leandro = {
@@ -28,16 +26,11 @@ const leandro = {
 ```
 
 
-<br>
-
+---
 
 [![Linkedin: leandrobruner](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbruner-dev/)](https://www.linkedin.com/in/lbruner-dev/)
 [![GitHub LBruner](https://img.shields.io/github/followers/LBruner?style=social)](https://github.com/LBruner)
 
-
----
-
-<br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LBruner&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%">

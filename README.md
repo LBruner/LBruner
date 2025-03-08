@@ -38,8 +38,8 @@ const leandro = {
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LBruner&theme=dracula&hide_border=true"  height="185rem">
-    <img src="https://github-readme-stats.vercel.app/api?username=LBruner&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="185rem">
+    <img src="https://github-readme-stats.vercel.app/api?username=LBruner&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LBruner&theme=dracula&hide_border=true" width="48%">
 </p>
 
 

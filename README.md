@@ -13,8 +13,6 @@
     </tr>
 </table>
 
----
-
 ```javascript
 const leandro = {
     code: [Javascript, Typescript, HTML, CSS, Dart, CSharp, PHP],
@@ -26,7 +24,6 @@ const leandro = {
 ```
 
 
----
 
 [![Linkedin: leandrobruner](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbruner-dev/)](https://www.linkedin.com/in/lbruner-dev/)
 [![GitHub LBruner](https://img.shields.io/github/followers/LBruner?style=social)](https://github.com/LBruner)

@@ -1,4 +1,4 @@
-<img height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M4c2JmZ2l1OHF0OHl2ODZ2ZjllMHFwZWR4M3hpZTcxeHJ5MHJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jZ6ggG9dreWgUX5gsx/giphy.gif" width="100%">
+<img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M4c2JmZ2l1OHF0OHl2ODZ2ZjllMHFwZWR4M3hpZTcxeHJ5MHJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jZ6ggG9dreWgUX5gsx/giphy.gif" width="100%">
 
 <h1 align="start">Hi, I'm Leandro Bruner</h1>
 

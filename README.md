@@ -13,10 +13,6 @@
     </tr>
 </table>
 
-<br>
-
-[![Linkedin: leandrobruner](https://img.shields.io/badge/-LeandroBruner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbruner-dev/)](https://www.linkedin.com/in/lbruner-dev/)
-[![GitHub LBruner](https://img.shields.io/github/followers/LBruner?style=social)](https://github.com/LBruner)
 
 <br>
 
@@ -31,7 +27,13 @@ const leandro = {
 }
 ```
 
+
 <br>
+
+
+[![Linkedin: leandrobruner](https://img.shields.io/badge/-LeandroBruner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbruner-dev/)](https://www.linkedin.com/in/lbruner-dev/)
+[![GitHub LBruner](https://img.shields.io/github/followers/LBruner?style=social)](https://github.com/LBruner)
+
 
 ---
 

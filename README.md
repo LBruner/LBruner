@@ -3,14 +3,14 @@
 <h1 align="start">Hi, I'm Leandro Bruner</h1>
 
 <table align="start">
-    <tr>
-        <td>Software Developer Intern at <a href="http://www.unb.br">MSI Soluções</a></td>
-        <td><img src="https://media1.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="50"></td>
-    </tr>
-    <tr>
+     <tr>
         <td>Software Development Student at <a href="https://www.fatecourinhos.edu.br/">Fatec Ourinhos</a></td>
         <td> <img height="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlmY2tnZG12bDF5bTZsbGQxNGpnOWhwbTJvbml6em5rdGk0cGZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="40"></td>
     </tr>
+    <tr>
+        <td>Software Developer Intern at <a href="http://www.unb.br">MSI Soluções</a></td>
+        <td><img src="https://media1.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="50"></td>
+    </tr>   
 </table>
 
 ```javascript

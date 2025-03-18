@@ -37,10 +37,3 @@ const leandro = {
 
 <br>
 
-<h3 align="right">
-    <span style="font-style: oblique">Journey before destination</span>
-</h3>
-
-<p align="right" style="font-size: 20px">The Stormlight Archive</p>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVpOTMwOXMydG4xb3Z2Y3Vpb3ZpdDFmNmpxZDlrNHpkcnhzd29sdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7Pr9dkEKftbDaThZX/giphy.gif" width="40">
-

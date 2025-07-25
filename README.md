@@ -19,7 +19,7 @@ const leandro = {
     tools: [React, Redux, Node, NextJS, Laravel, ExpresJS, Git, Docker, Flutter],
     languages: ["Brazilian Portugues", "English", "French"],
     hobbies: ["Coding", "Reading", "Gaming"],
-    challenge: "I am focusing on new projects "
+    challenge: "I am focusing on new projects"
 }
 ```
 
